@@ -12,7 +12,7 @@
 .banner__title{
     font-family: "Sans Serif", Arial, Sans-Serif;
     color: white;
-    font-size: 18px;
+    font-size: 36px;
 }
 /*Cambia el color de fondo de los articulos*/
 .section__article{
@@ -24,7 +24,7 @@
 .article__issue{
     font-family: "Sans Serif", Arial, Sans-Serif;
     color: black;
-    font-size: 18px;
+    font-size: 24px;
 }
 /*Cambia el tipo de letra del texto del articulo a Roboto*/
 /*Cambia el color de la letra del texto del articulo*/
@@ -32,7 +32,7 @@
 .article__text{
     font-family: "Sans Serif",  Arial, Sans-Serif;
     color: black;
-    font-size: 14px;
+    font-size: 18px;
 }
 /*Cambia el tipo de letra del texto del articulo a Josefin Sans*/
 /*Cambia el color de remarcado del texto*/
@@ -58,5 +58,5 @@
 .paragraph__text{
     font-family: "Sans Serif", Arial, Sans-Serif;
     color: white;
-    font-size: 18px;
+    font-size: 30px;
 }
